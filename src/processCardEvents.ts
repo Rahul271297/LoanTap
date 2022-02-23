@@ -22,6 +22,7 @@ type CardTransactionMapping = {
 export const processCardEvents = (cardEvents: CardEvent[]): CardTransactionMapping => {
 
   // logic
+  
 
   return {} as CardTransactionMapping
 }
