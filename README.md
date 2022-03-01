@@ -14,3 +14,8 @@ or missing. For duplicated events, you may only use one of its occurrences and d
 
 ## Running service (watch mode)
 ```npm run dev```
+
+## SOLUTION SUBMITTED :
+
+- I have made a folder(Javascript Logic) inside src folder. I have written my solution inside it.
+- For running the solution , simply you have to run in terminal , with NPM Start.
